@@ -4,8 +4,8 @@
 
 누군가 추가함
 
-<<<<<<< Updated upstream
 다른 사람이 추가함
-=======
+
 더 추가함
->>>>>>> Stashed changes
+
+추가의 추가
